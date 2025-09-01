@@ -1,4 +1,5 @@
-* 
-!.gitignore 
-!python_practise/ 
+*
+!.gitignore
+!python_practise/
+!python_practise/README.md
 !python_practise/number_checker.ipynb
